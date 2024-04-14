@@ -1,0 +1,4 @@
+*vsidx
+*.opendb
+.vs
+out
